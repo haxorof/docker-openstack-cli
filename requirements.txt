@@ -1,4 +1,4 @@
 python-openstackclient==3.19.0
 python-designateclient==2.11.0
 python-heatclient==1.17.0
-cmd2>0.8.3,<0.9.0
+cmd2>0.8.3,<0.10.0
