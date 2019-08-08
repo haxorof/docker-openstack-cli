@@ -1,5 +1,5 @@
 python-openstackclient==3.19.0
-python-designateclient==2.11.0
+python-designateclient==2.12.0
 python-heatclient==1.17.0
 python-neutronclient==6.12.0
 python-glanceclient==2.16.0
