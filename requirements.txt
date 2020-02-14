@@ -5,4 +5,4 @@ python-neutronclient==6.14.0
 python-glanceclient==2.17.0
 python-swiftclient==3.9.0
 python-octaviaclient==2.0.0
-cmd2>0.8.3,<0.9.0
+cmd2>0.8.3,<0.11.0
