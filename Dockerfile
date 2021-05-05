@@ -1,4 +1,4 @@
-FROM python:3.9.4-alpine
+FROM python:3.9.5-alpine
 
 LABEL org.opencontainers.image.title="haxorof/openstack-cli" \
     org.opencontainers.image.description="OpenStackClient (aka OSC)"
