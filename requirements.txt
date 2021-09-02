@@ -1,4 +1,4 @@
-python-openstackclient==5.5.0
+python-openstackclient==5.6.0
 python-designateclient==4.3.0
 python-heatclient==2.4.0
 python-neutronclient==7.5.0
