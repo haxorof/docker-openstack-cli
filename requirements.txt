@@ -2,6 +2,6 @@ python-openstackclient==5.7.0
 python-designateclient==4.4.0
 python-heatclient==2.5.0
 python-neutronclient==7.8.0
-python-glanceclient==3.5.0
+python-glanceclient==3.6.0
 python-swiftclient==3.13.1
 python-octaviaclient==2.5.0
