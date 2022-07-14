@@ -4,4 +4,4 @@ python-heatclient==2.5.1
 python-neutronclient==7.8.0
 python-glanceclient==4.0.1
 python-swiftclient==4.0.0
-python-octaviaclient==2.5.0
+python-octaviaclient==3.0.0
