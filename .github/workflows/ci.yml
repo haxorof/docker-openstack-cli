@@ -81,5 +81,5 @@ jobs:
         uses: peter-evans/dockerhub-description@v4
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.GITHUB_TOKEN }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
           repository: haxorof/openstack-cli
