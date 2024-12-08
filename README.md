@@ -1,5 +1,7 @@
 # OpenStackClient
 
+**THIS REPOSITORY IS NO LONGER MAINTAINED!**
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/haxorof/openstack-cli)](https://hub.docker.com/r/haxorof/openstack-cli/)
 [![CI](https://github.com/haxorof/docker-openstack-cli/workflows/CI/badge.svg)](https://github.com/haxorof/docker-openstack-cli/actions?query=workflow%3ACI)
 
